@@ -10,6 +10,6 @@ Os dados são informações sobre acidentes de trânsito na Índia, incluindo o 
 - Power BI
 
 
-## Separado nas seguintes colunas:
+## Sobre o conjunto de dados:
   - States/UTs -> Nome do Estado
   
